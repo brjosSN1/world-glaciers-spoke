@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Get Galcier Information [ Default GET ]</qualified_name>
+        <rest_endpoint>https://sndevapiserver.service-now.com/api/x_snc_world_glacie/v1/world_glaciers/getglaciers/latlong?num_recs_per_page=3&amp;first_rec=1908</rest_endpoint>
+        <rest_message display_value="Get Galcier Information">feb0e09b2fb2601029883e0ef699b616</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-15 00:58:07</sys_created_on>
+        <sys_id>b301e09b2fb2601029883e0ef699b6a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="World Glaciers Spoke" source="x_458834_world_gla">e378ae6d2f36201029883e0ef699b6ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="World Glaciers Spoke">e378ae6d2f36201029883e0ef699b6ab</sys_scope>
+        <sys_update_name>sys_rest_message_fn_b301e09b2fb2601029883e0ef699b6a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-15 00:58:07</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>
